@@ -54,6 +54,8 @@ const Search = () => {
             //below is the method to go to specific page in wikipedia(use page id as query parameter
             href={`https://en.wikipedia.org?curid=${result.pageid}`}
             className="ui positive button"
+            target="_blank"
+            rel="noreferrer"
           >
             Go {""}
             <i className="external square alternate icon"></i>
