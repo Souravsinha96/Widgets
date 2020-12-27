@@ -1,3 +1,19 @@
+# Widgets React App
+4 seperate widgets built using React and React hooks
+
+a. Accordion
+b. Search using Wikipedia API
+c. Dropdown
+d. Translate widget using Google translate API
+
+![Widgets.gif](ss/widgets.gif)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
