@@ -6,7 +6,7 @@ b. Search using Wikipedia API
 c. Dropdown
 d. Translate widget using Google translate API
 
-![Widgets.gif](ss/widgets.gif)
+![Widget.gif](ss/widget.gif)
 
 
 
