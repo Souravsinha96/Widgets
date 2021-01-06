@@ -1,10 +1,13 @@
 # Widgets React App
 4 seperate widgets built using React and React hooks
 
-a. Accordion
-b. Search using Wikipedia API
-c. Dropdown
-d. Translate widget using Google translate API
+*An Accordion component
+
+*A Wikipedia API search component
+
+*A Dropdown item selection component
+
+*A Google Translate API component
 
 ![Widget.gif](ss/widget.gif)
 
