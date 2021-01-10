@@ -11,12 +11,12 @@
 
 ![Widget.gif](ss/widget.gif)
 
-![capture6.png](ss/capture6.png)
+![capture6.PNG](ss/capture6.PNG)
 
-![capture5.png]](ss/capture5.png)
+![capture5.PNG]](ss/capture5.PNG)
 
 #Routing:
-![Capture3.png](ss/Capture3.png)
+![Capture3.PNG](ss/Capture3.PNG)
 
 
 
