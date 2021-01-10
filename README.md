@@ -11,6 +11,16 @@
 
 ![Widget.gif](ss/widget.gif)
 
+![capture6.jpg](ss/capture6.jpg)
+
+![capture5.jpg](ss/capture5.jpg)
+
+#Routing:
+![capture3.jpg](ss/capture3.jpg)
+
+
+
+
 
 
 
