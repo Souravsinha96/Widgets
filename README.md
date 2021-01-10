@@ -13,7 +13,7 @@
 
 ![capture6.PNG](ss/capture6.PNG)
 
-![capture5.PNG]](ss/capture5.PNG)
+![capture5.PNG](ss/capture5.PNG)
 
 #Routing:
 ![Capture3.PNG](ss/Capture3.PNG)
